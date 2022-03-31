@@ -1,9 +1,11 @@
+# Behaviour Diagram
 # High Level Design:
 ##   Figure:1 .Use Case Diagram
 ![image](https://user-images.githubusercontent.com/101278036/160980353-d79e3c3c-7d81-43ab-b644-d5716cee5f5d.png)
 # Low Level Design:
 ## Figure:2.Activity Diagram
 ![image](https://user-images.githubusercontent.com/101278036/160980642-b6a79e34-7a28-4c85-a0c7-5af64eae5a8c.png)
+# Structural Diagram
 # High Level Design:
 ##      Figure:3.Architecture Diagram
 ![image](https://user-images.githubusercontent.com/101278036/160980850-5ce87945-fa50-40eb-ad5a-dbe8d9e02dcf.png)
