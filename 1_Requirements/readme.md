@@ -1,4 +1,4 @@
-# M1_Banking_Management_Sytem
+#  Banking Management System
 # Introduction:
 -  Bank Management system is used to save the records of students, clients, employee in Bank. Bank management system is an application for maintaining a personal account in a bank, and the system provides the access to the customer to create an account, deposit, withdraw the cash from his or her account, also to view reports of all accounts present he or her had
 # Research:
